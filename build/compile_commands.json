@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/hetan/Downloads/rubiks-cube-solver-main/build",
+  "command": "/usr/bin/c++  -I/home/hetan/Downloads/rubiks-cube-solver-main/Model -g -std=gnu++14 -o CMakeFiles/rubiks_cube_solver.dir/Model/RubiksCube.cpp.o -c /home/hetan/Downloads/rubiks-cube-solver-main/Model/RubiksCube.cpp",
+  "file": "/home/hetan/Downloads/rubiks-cube-solver-main/Model/RubiksCube.cpp"
+},
+{
+  "directory": "/home/hetan/Downloads/rubiks-cube-solver-main/build",
+  "command": "/usr/bin/c++  -I/home/hetan/Downloads/rubiks-cube-solver-main/Model -g -std=gnu++14 -o CMakeFiles/rubiks_cube_solver.dir/main.cpp.o -c /home/hetan/Downloads/rubiks-cube-solver-main/main.cpp",
+  "file": "/home/hetan/Downloads/rubiks-cube-solver-main/main.cpp"
+},
+{
+  "directory": "/home/hetan/Downloads/rubiks-cube-solver-main/build",
+  "command": "/usr/bin/c++  -I/home/hetan/Downloads/rubiks-cube-solver-main/Model -g -std=gnu++14 -o CMakeFiles/rubiks_cube_solver.dir/Model/RubiksCube3dArray.cpp.o -c /home/hetan/Downloads/rubiks-cube-solver-main/Model/RubiksCube3dArray.cpp",
+  "file": "/home/hetan/Downloads/rubiks-cube-solver-main/Model/RubiksCube3dArray.cpp"
+},
+{
+  "directory": "/home/hetan/Downloads/rubiks-cube-solver-main/build",
+  "command": "/usr/bin/c++  -I/home/hetan/Downloads/rubiks-cube-solver-main/Model -g -std=gnu++14 -o CMakeFiles/rubiks_cube_solver.dir/Model/RubiksCube1dArray.cpp.o -c /home/hetan/Downloads/rubiks-cube-solver-main/Model/RubiksCube1dArray.cpp",
+  "file": "/home/hetan/Downloads/rubiks-cube-solver-main/Model/RubiksCube1dArray.cpp"
+},
+{
+  "directory": "/home/hetan/Downloads/rubiks-cube-solver-main/build",
+  "command": "/usr/bin/c++  -I/home/hetan/Downloads/rubiks-cube-solver-main/Model -g -std=gnu++14 -o CMakeFiles/rubiks_cube_solver.dir/Model/RubiksCubeBitboard.cpp.o -c /home/hetan/Downloads/rubiks-cube-solver-main/Model/RubiksCubeBitboard.cpp",
+  "file": "/home/hetan/Downloads/rubiks-cube-solver-main/Model/RubiksCubeBitboard.cpp"
+},
+{
+  "directory": "/home/hetan/Downloads/rubiks-cube-solver-main/build",
+  "command": "/usr/bin/c++  -I/home/hetan/Downloads/rubiks-cube-solver-main/Model -g -std=gnu++14 -o CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/NibbleArray.cpp.o -c /home/hetan/Downloads/rubiks-cube-solver-main/PatternDatabases/NibbleArray.cpp",
+  "file": "/home/hetan/Downloads/rubiks-cube-solver-main/PatternDatabases/NibbleArray.cpp"
+},
+{
+  "directory": "/home/hetan/Downloads/rubiks-cube-solver-main/build",
+  "command": "/usr/bin/c++  -I/home/hetan/Downloads/rubiks-cube-solver-main/Model -g -std=gnu++14 -o CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/PatternDatabase.cpp.o -c /home/hetan/Downloads/rubiks-cube-solver-main/PatternDatabases/PatternDatabase.cpp",
+  "file": "/home/hetan/Downloads/rubiks-cube-solver-main/PatternDatabases/PatternDatabase.cpp"
+},
+{
+  "directory": "/home/hetan/Downloads/rubiks-cube-solver-main/build",
+  "command": "/usr/bin/c++  -I/home/hetan/Downloads/rubiks-cube-solver-main/Model -g -std=gnu++14 -o CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/CornerPatternDatabase.cpp.o -c /home/hetan/Downloads/rubiks-cube-solver-main/PatternDatabases/CornerPatternDatabase.cpp",
+  "file": "/home/hetan/Downloads/rubiks-cube-solver-main/PatternDatabases/CornerPatternDatabase.cpp"
+},
+{
+  "directory": "/home/hetan/Downloads/rubiks-cube-solver-main/build",
+  "command": "/usr/bin/c++  -I/home/hetan/Downloads/rubiks-cube-solver-main/Model -g -std=gnu++14 -o CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/CornerDBMaker.cpp.o -c /home/hetan/Downloads/rubiks-cube-solver-main/PatternDatabases/CornerDBMaker.cpp",
+  "file": "/home/hetan/Downloads/rubiks-cube-solver-main/PatternDatabases/CornerDBMaker.cpp"
+},
+{
+  "directory": "/home/hetan/Downloads/rubiks-cube-solver-main/build",
+  "command": "/usr/bin/c++  -I/home/hetan/Downloads/rubiks-cube-solver-main/Model -g -std=gnu++14 -o CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/math.cpp.o -c /home/hetan/Downloads/rubiks-cube-solver-main/PatternDatabases/math.cpp",
+  "file": "/home/hetan/Downloads/rubiks-cube-solver-main/PatternDatabases/math.cpp"
+}
+]
